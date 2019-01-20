@@ -1,4 +1,4 @@
-#TODO
+# TODO
 
 todoファイルだけどもうやった後の感想とやったこと
 
@@ -45,9 +45,9 @@ INSTALLED_APPS = [
 以上でアプリの下準備は終了！<br>
 処理の記述は主にmodel,view,testで書くみたいだけど、まだこれからの話になるなぁ
 
-###以下は追記
+### 以下は追記
 bootstrapを使ってみた。freeなのにしっかりできていて、デザインも使い方次第で良さそうな感じ。<br>
-####使いかた
+#### 使いかた
 staticフォルダの中にbootstrapフォルダを作成してその中にdist,js,venderファイルを入れる。あと、staticファイル直下にcssフォルダを作成してその中にtemplatesの中にあるbase.htmlと紐付けをするためのstatic.cssを作成する。
 <br>
 次にプロジェクトの中にあるtemplatesフォルダの中にbase.htmlを作成する。base.htmlは他のhtmlファイルのヘッダ部分を担う内容を記述してある。
